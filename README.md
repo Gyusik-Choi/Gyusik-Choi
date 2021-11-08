@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Gyusik-Choi
-- 👀 I’m interested in JavaScrtip, Dart & Flutter, Python
+- 👀 I’m interested in JavaScript, Dart & Flutter, Python
 - 🌱 I’m currently learning JavaScrtip, Dart & Flutter, Python
 
 <!---
