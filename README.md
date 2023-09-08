@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Gyusik-Choi
-- 👀 I’m interested in JavaScript & TypeScript, Dart & Flutter, Python
+- 👋 Hi, I’m Gyusik-Choi
 
 <!---
 Gyusik-Choi/Gyusik-Choi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
